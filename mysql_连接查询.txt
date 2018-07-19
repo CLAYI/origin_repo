@@ -14,7 +14,7 @@
 				  左外连接的查询结果包括所有符合连接条件的记录信息，和左表中不符合连接条件的记录。
 		右外连接：(right join):
 			语法：select 字段列表 from 表A right join 表B on 连接条件 [其他筛选条件];
- 11               右外连接的查询结果包括所有符合连接条件的记录信息，和右表中不符合连接条件的记录。
+                右外连接的查询结果包括所有符合连接条件的记录信息，和右表中不符合连接条件的记录。
 			eg: select stuname,sex,score, shoolname from school left join student on school_id=student_id;
 
 
