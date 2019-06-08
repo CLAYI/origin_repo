@@ -1,2 +1,2 @@
-# origin_repo
-True repo
+# mysql note
+upload mysql query..
